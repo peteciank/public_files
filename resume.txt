@@ -1,78 +1,43 @@
 Background
+Neurodivergent Tech Leader with 23 years of experience in problem-solving and innovation. Proven success in Agile and Waterfall software/infrastructure projects.
 
-► Pedro is a Delivery Director in the Intelligence Program for EY Fabric Platform.
+Skills:
+AI: OpenAI, HuggingFace, Machine Learning, CoLab, Streamlit, Python, Azure Cognitive Services, Github, Kaggle, PowerBI.
+IoT: Arduino, Raspberry PI, Blynk, IoT Hub, Visio, Tuya, Thinkercad
+Microsoft Fabric: PowerBI, Power Automate, and PowerApps
+Soft Skills: Negotiation (Harvard Style using BATNA), Communication, Critical Thinking, System Thinking, Design Thinking, Lean, SMED,
+Project/Product Management: Traditional Project Management, Scrum, Scaled Agile, Azure DevOps, Jira, Confluence, Jenkins, MS Project, Monday.com, Aha!, Miro, Mural.
 
-► Pedro joined EY in 2021 as Assistant Director 1 – 63-1 (Manager 1 of 3 sub-grades)
-and is based at GDS Argentina in Buenos Aires. 2 year later,
-Pedro was promoted to Associate Director 1 - 62- 1 (Senior Manager 1 of 3 sub-grades).
 
-He has 20 years of experience in the technology industry with 10 years spent on service
-delivery operations serving to 10k users distributed in Latin America. In the last nine
-years, he served as infrastructure manager, leading complex infrastructure projects with
-the migration of an on-premises datacentre with a portfolio of services to Microsoft Office
-365 cloud.
+Professional Experience:
+Layer Delivery Leader - Senior Scrum Master, EY CT - July 2023 - Present
+As EY's AI Portfolio Delivery Coordinator, I led the Agile transformation, elevating the Agile maturity score from 2 to 3.5.
+Accelerated Version 1.0 implementation to just 4 weeks.
+Achieved on-time major releases by combining Scrum development with a waterfall approach for change management.
+Increased the delivery ratio from 80% to 95%, maintaining a sustainable cadence and high team retention.
+Champion Agile practices based on SAFe and Scrum, enhanced with strategic EY customizations.
 
-In 2021, Pedro shifted his career to the software industry. Pedro was the Scrum Master in
-a key product in EY Fabric, EY Cloud Risk View. Workforce: 50 developers, Delivering: 400
-features per year, Delivering Rate: 90%.
 
-In July 2022, he was appointed as Release Train Engineer for Zero Trust and Commercial
-Agile Release Trains in the Cloud Program within EY Fabric. He was managing 11 Scrum
-Masters, and around 250 developers. During this period, Pedro created a set of analytics
-tools using AI, BI, and RPA to monitor the complex delivery which was later expanded to
+Release Train Engineer, EY CT - July 2022 - June 2023
+As Agile Release Train leader for EY's Cloud Portfolio, I streamlined delivery for 11 Scrum Masters and 8 Cybersecurity Products.
+Implemented a robust Release Process Management system, boosting transparency and stakeholder confidence.
+Developed a custom tracking tool that empowered Scrum Masters and Product Managers to refine their practice and optimize feature trade-offs.
+Doubled feature releases, delivering consistent value to stakeholders.
 
-EY Fabric. He also co-created a taskforce to standardize the delivery practice across EY
-Fabric.
 
-In July 2023, he was appointed as Layer Delivery Leader for the Intelligence Layer, the AI
-program within EY Fabric. With his previous experience in Generative AI (Since 2020) and
-Machine Learning (Since 2017), Business Intelligence (Since 2013), he contributed to
-sophisticate and systematize any operation.
+Scrum Master, EY CT - July 2021 to July 2022
+Served as Scrum Master for 2 pods in a key EY cybersecurity product.
+Launched the MVP in just 3 months, securing 2 years of funding and doubling team size.
+Meticulous team-building (front/backend devs, UX, etc.) fueled rapid growth.
+Achieved 2 major releases.
 
-Skills
 
-► Artificial intelligence, Data Science and Business Intelligence: Creating Data-driven
-culture.
+Data and Digital Officer, ENGIE - July 2019 to June 2021
+Subject matter expert in data science and IoT, guiding regional offices and subsidiaries in their data transformation journey.
+Helped adopt data technologies and implement the first four key data-driven processes.
+Led various digital products, ensured smooth execution, and delivered value to stakeholders.
 
-► Power Platform Suite: Assisting in the creation of full stack solutions to operate in a
-more efficient way using Power Automate, PowerApps, PowerBI and SharePoint.
 
-► Soft skills: Negotiation (Harvard Style using BATNA), Communication, Critical thinking,
-System Thinking.
-
-► Special Projects: Delivery Reports, Agile Copilot (GenAI GPT Type Assistant),
-Shadowing Machine (Agile School for new comers)
-
-► Project Management Frameworks: Project Management, Scrum, Scaled Agile.
-
-Professional Experience (Latest Relevant)
-► Layer Delivery Director – EY CT – Jul 2023 – Present: \n
-Pedro is assisting the EY Fabric Intelligence Layer as Delivery Leader and 
-Solution Train Engineer, coaching Layer Leaders, and Train Leaders in the Scrum Practice, 
-aligning Layer to EY Fabric Standards, adjusting the delivery strategy to EY Fabric goals and priorities. 
-Pedro is also leading the engineering initiatives for the Delivery Office and Alignment Teams,
-leading the development of tools to cascade standards to all layers in EY Fabric.\n
-
-► Release Train Engineer – EY CT – Jul 2022 – Jun 2023:
-Pedro assisted EY Fabric Cloud Layer in the Zero Trust and Commercial Trains as Release Train Engineer,
-advising the scrum teams in the SAFe scrum methodology, helping products to achieve
-higher delivery ratios, with the motto: “Delivering better and faster”.
-
-► Scrum Master – EY CT – Jul 2021 to Jul 2022: Pedro served as scrum master to the
-product and the scrum teams (four), facilitating the scrum events, assisting the
-product team with the Product Incremental (PI) Planning, and advising them with the
-best SAFe Scrum practices to achieve their PI goals. Turned PI completion ratio from
-80% to 95%, introducing the Release process, creating a regular release cadence.
-
-► Data and Digital Officer - ENGIE – Jul 2019 to Jun 2021: He served the company as
-subject matter resource in the data science and Internet of things fields, advising the
-company regional office and subsidiaries with the data transformation strategy,
-helping to adopt data technology and assist in the implementation of the first four key
-data-driven processes and its transformation journey to a data-driven organization.
-Also Acting as Product Manager, Product Owner and Scrum Master for various Digital
-Products.
-
-► Technology Manager - ENGIE – Oct 2014 to Jul 2019: He served the company’s
-regional office and subsidiaries in the Latin American Region assisting in the migration
-of an on-premises datacenter to the Microsoft Office 365 cloud, assisting with the
-maintenance of the regional infrastructure.
+Technology Manager, ENGIE - October 2014 to July 2019
+Partnered with LATAM regional office & subsidiaries to execute a seamless cloud migration (to Microsoft Office 365) and provide infrastructure support.
+The largest transition to the cloud for the company, serving 14 offices, 7 countries, and 10k users.
