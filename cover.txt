@@ -1,10 +1,13 @@
-To whom it may receive this cover letter,
-My passion for technology isn't just a career choice, it's a fire that burns within me. It's what drives me to tinker with solutions, collaborate with teams to tackle complex problems, and see every new challenge as an opportunity to build something remarkable. This passion, coupled with my diverse experience in infrastructure management, agile delivery, and AI-powered optimization, makes me a confident candidate for a software endeavor with high pressure and challenges.
-I bring over 20 years of experience in the tech industry, where I've worn many hats and learned to navigate the ever-evolving landscape. My early years in service delivery honed my operational skills, handling infrastructure for 10,000 users across Latin America. This foundation proved invaluable when I led the migration of a complex on-premises datacenter to Microsoft Office 365, a testament to my ability to orchestrate large-scale technological shifts.
-But my true calling lies in software development. In 2021, I joined EY and the EY Fabric team and plunged headfirst into the agile world, serving as Scrum Master for EY Cloud Risk View. Leading a 50-developer team, we delivered 400 features per year with a 90% success rate – a testament to my collaborative leadership and dedication to efficient execution.
-My thirst for continuous improvement took me further. As Release Train Engineer for the Zero Trust and Commercial Agile Release Trains, I didn't just manage 11 Scrum Masters and 250 developers – I built tools to do it better. Using AI, BI, and RPA, I crafted custom analytics dashboards that brought unprecedented clarity to complex delivery processes. This initiative, later adopted by EY Fabric Technology Platform as a whole, exemplifies my ability to identify inefficiencies and leverage technology to solve them.
-Now, I'm drawn to the exciting world of software development. My background in Delivery Management, Generative AI, Machine Learning, and Business Intelligence positions me to contribute effectively to my team's mission. I'm adept at utilizing the Power Platform Suite to build data-driven solutions that streamline operations and unlock efficiency.
-But beyond technical expertise, my soft skills are equally noteworthy. Negotiation (fueled by the Harvard BATNA framework), clear communication, critical thinking, and a systems-oriented approach form the bedrock of my leadership style. I thrive in collaborative environments, where diverse perspectives fuel innovation and propel us towards shared goals.
-I've also nurtured my entrepreneurial spirit within EY. From crafting insightful delivery reports to developing an AI-powered Agile Copilot and a "Shadowing Machine" training program for new recruits, I constantly seek ways to add value beyond my immediate role.
-My passion for technology, diverse skillset, and proven track record of leading high-performing teams makes me a true asset to any organization. I'm confident that I can significantly contribute to my employer’s success, and I'm eager to learn more about how my skills and experience can align with our goals.
-Thank you for your time and consideration. I look forward to discussing my qualifications further with you.
+Dear Hiring Manager,
+ 
+I'm a passionate problem-solver, driven by my love of technology and fueled by my neurodivergence. It gives me a unique perspective that allows me to think creatively and find better solutions.  In my 20+ years of experience, I've honed my skills in infrastructure management, agile delivery, and applied AI.
+ 
+Early in my career, I oversaw infrastructure for 10,000 users across Latin America.  Later, I successfully migrated a complex datacenter to Microsoft Office 365. This showcases my ability to navigate technical challenges on a large scale.
+ 
+Drawn to efficiency, I've excelled in agile environments. As a Scrum Master, I led a 50-developer team to deliver 400 features annually with exceptional success rates. Later, as Release Train Engineer, I streamlined processes for 250 developers and 11 Scrum Masters, demonstrating my ability to optimize complex workflows.
+ 
+Now, I'm eager to focus on software development. My background in AI, ML, and the Power Platform, combined with my neurodivergent strength in problem-solving, will make me a valuable asset to your team.  I'm also a strong communicator, negotiator, and collaborator, ready to thrive in a dynamic environment.
+ 
+I'd love to discuss how my skills and unique perspective could contribute to your company's goals. Thank you for considering my application.
+ 
+Sincerely,
