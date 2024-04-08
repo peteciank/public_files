@@ -1,0 +1,38 @@
+Background
+Neurodivergent tech leader (23 years) with a unique edge in problem-solving & innovation. Proven success in Agile & Waterfall software/infrastructure projects.
+
+Skills
+►	AI: OpenAI, HuggingFace, Machine Learning, CoLab, Streamlit, Python, Azure Cognitive Services, Github, Kaggle, PowerBI, Prompt Engineering, LLMs, Model-Tunning
+►	IoT: Arduino, Raspberry PI, Blynk, IoT Hub, Visio, Tuya, Thinkercad
+►	Microsoft Fabric: PowerBI, Power Automate and PowerApps
+►	Soft: Negotiation (Harvard Style using BATNA), Communication, Critical thinking, System Thinking, Design Thinking, Lean, SMED, 
+►	Project and Product Management: Traditional Project Management, Scrum, Scaled Agile, Azure DevOps, Jira, Confluence, Jenkins, MS Project, Monday.com, Aha!, Miro, Mural.
+
+Professional Experience (Latest Relevant)
+►	Layer Delivery Leader – Senior Scrum Master – EY CT – Jul 2023 – Present: 
+As EY's AI Portfolio Delivery Coordinator, I spearhead Agile transformation. Working with 20 Scrum Masters and 4 Release Train Engineers, I've elevated our Agile maturity score from 2 to 3.5 (approaching market-ready level). This transformation fueled one of the biggest launches in consulting history – EYQ, our internal ChatGPT.
+
+My impact is measurable:
+Accelerated Version 1.0 implementation to just 4 weeks.
+On-time major releases achieved by combining Scrum development with a waterfall approach for change management.
+Delivery ratio boosted from 80% to 95%, with sustainable cadence and high team retention.
+My approach? I champion Agile practices based on SAFe and Scrum, enhanced with strategic EY customizations. I'm not just a framework expert; I drive results that transform businesses.
+
+►	Release Train Engineer – Senior Scrum Master - EY CT – Jul 2022 – Jun 2023: 
+As Agile Release Train leader for EY's Cloud Portfolio, I streamlined delivery for 11 Scrum Masters and 8 Cybersecurity Products. I implemented a robust Release Process Management system, boosting transparency and stakeholder confidence.  My custom tracking tool (built with GitHub, Azure DevOps, and PowerBI) empowered Scrum Masters and Product Managers, enabling them to refine their practice and optimize feature trade-offs.
+
+The result? We doubled feature releases, delivering consistent value to stakeholders. My expertise lies in translating Agile methodologies into real-world improvements and team growth.
+
+►	Senior Scrum Master – EY CT – Jul 2021 to Jul 2022:  
+I served as Scrum Master for 2 pods in a key EY cybersecurity product. Starting with 4 small pods, I helped launch the MVP in just 3 months, securing 2 years of funding and doubling team size. Meticulous team-building (front/backend devs, UX, etc.) fueled rapid growth.
+
+My results speak for themselves: 2 major releases achieved. This success led to my promotion as Release Train Engineer, managing the cadence of 8 cybersecurity products within a single Agile Release Train.  I excel at both hands-on Scrum leadership and strategic scaling for complex delivery.
+I was also acting temporary as Business Analyst for the Frontend Team. 
+
+►	Data and Digital Officer - ENGIE – Jul 2019 to Jun 2021: 
+I served as a subject matter expert in data science and IoT, guiding regional offices and subsidiaries on their data transformation journey. I helped them adopt data technologies and implement the first four key data-driven and Scrum Agile processes, acting as a catalyst for their shift to a data-driven organization.
+
+Beyond strategy, I wore multiple hats: Technical Product Manager, Product Owner, and Scrum Master. Leading various digital products, I ensured smooth execution and delivered value to stakeholders.
+
+►	Technology Manager - ENGIE – Oct 2014 to Jul 2019: 
+Partnered with LATAM regional office & subsidiaries to execute a seamless cloud migration (to Microsoft Office 365) and provide infrastructure support. This migration served 14 offices, in 7 countries, with 10k users. The biggest transition to cloud in the company. 
