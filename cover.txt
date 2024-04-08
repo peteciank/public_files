@@ -1,4 +1,4 @@
-Dear Hiring Manager,
+Dear Visitor,
  
 I'm a passionate problem-solver, driven by my love of technology and fueled by my neurodivergence. It gives me a unique perspective that allows me to think creatively and find better solutions.  In my 20+ years of experience, I've honed my skills in infrastructure management, agile delivery, and applied AI.
  
@@ -8,6 +8,7 @@ Drawn to efficiency, I've excelled in agile environments. As a Scrum Master, I l
  
 Now, I'm eager to focus on software development. My background in AI, ML, and the Power Platform, combined with my neurodivergent strength in problem-solving, will make me a valuable asset to your team.  I'm also a strong communicator, negotiator, and collaborator, ready to thrive in a dynamic environment.
  
-I'd love to discuss how my skills and unique perspective could contribute to your company's goals. Thank you for considering my application.
+I'd love to discuss how my skills and unique perspective could contribute to your company's goals. 
+Have a wonderful rest of the day.
  
 Sincerely,
