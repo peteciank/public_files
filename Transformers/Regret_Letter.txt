@@ -1,0 +1,32 @@
+John Doe
+123 Main Street
+Anytown, USA
+john@email.com
+(123) 456-7890
+April 8, 2024
+
+Jane Doe
+Customer Service Manager
+ABC Company
+456 Oak Avenue
+Sometown, USA
+
+Dear Jane Doe,
+
+I am writing to express my disappointment and frustration regarding the recent experience I had with your company. On March 25, 2024, I made a purchase of a laptop through your online store. Unfortunately, the experience did not meet my expectations, and I feel compelled to bring it to your attention.
+
+The laptop I received was not as described on your website. The specifications listed online did not match the product I received. Additionally, the laptop arrived with a damaged screen, making it unusable out of the box.
+
+Furthermore, due to the delay in receiving the product and the subsequent return process, I was left without a functioning laptop for an extended period, resulting in significant inconvenience as I rely on it for work and personal use.
+
+I had hoped for better from ABC Company, especially considering your reputation for quality products and excellent customer service. However, based on this encounter, I am left feeling disappointed and dissatisfied.
+
+In light of the above, I would appreciate a full refund for the laptop purchase and reimbursement for any associated expenses incurred during the return process. Additionally, I urge you to take steps to ensure product quality control and improve your shipping and handling procedures to prevent similar incidents in the future.
+
+Please contact me at your earliest convenience to discuss this matter further and to reach a satisfactory resolution. You can reach me at (123) 456-7890 or via email at example@email.com.
+
+Thank you for your attention to this matter. I look forward to hearing from you soon.
+
+Sincerely,
+
+John Doe
